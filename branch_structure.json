@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/fix-post-pr-actions",
+    "chore/updates-aug-26",
+    "feature/topic-size-skew",
+    "gfi/107-merge-agents-md",
+    "gfi/99-cardinality-guide",
+    "gh-pages",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/fix-post-pr-actions": "main",
+    "chore/updates-aug-26": "main",
+    "feature/topic-size-skew": "main",
+    "gfi/107-merge-agents-md": "main",
+    "gfi/99-cardinality-guide": "main",
+    "gh-pages": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/fix-post-pr-actions",
+    "chore/updates-aug-26",
+    "feature/topic-size-skew",
+    "gfi/107-merge-agents-md",
+    "gfi/99-cardinality-guide",
+    "gh-pages",
+    "origin"
+  ]
+}
